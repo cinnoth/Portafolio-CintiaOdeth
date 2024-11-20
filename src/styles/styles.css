@@ -654,6 +654,9 @@ header.sticky{
     }
 }
 @media(max-width: 600px){
+    header{
+        background-color: rgba(255, 254, 254, 0.1); 
+    }
     :root{
         --h1-font:3.4rem;
         --h2-font:2.5rem;
